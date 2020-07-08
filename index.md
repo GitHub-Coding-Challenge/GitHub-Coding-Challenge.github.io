@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to the Devopsdays Wall of Zen coding challenge
 
-You can use the [editor on GitHub](https://github.com/GitHub-Coding-Challenge/GitHub-Coding-Challenge.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Wall of Zen twitter card](./assets/devopswallofzen.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On Thursday July 9, 2020, we're tuning in for [Devopsdays Amsterdam Online](https://devopsdays.org/events/2020-amsterdam/welcome/), where you'll hear all about...DevOps! To put all that knowledge to practice, we've built some **5 short coding challenges** for you to get started with GitHub Actions 🚀. Either during the breaks or after hours, feel free to give them a try and [let us know](https://twitter.com/msdev_we) what you think of them!
 
-### Markdown
+## But what does all this have to do with a Wall of Zen?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have created a [Wall of Zen page](https://aka.ms/wallofzen) where you can post Zen quotes for the Devopsdays attendees. Under the hood it uses the [Octocat GitHub API](https://api.github.com/octocat).
 
-```markdown
-Syntax highlighted code block
+![Wall of Zen web page](./assets/wallofzen.png)
 
-# Header 1
-## Header 2
-### Header 3
+We have prepared a sample Node.js application for you that exposes a REST API to post your quote on the wall. The goal of these coding challenges is to get this REST API up-and-running by creating a CI/CD pipeline using GitHub Actions.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## How does it work? 🧰
 
-**Bold** and _Italic_ and `Code` text
+Just head over to our [Coding Challenge GitHub repo](https://github.com/GitHub-Coding-Challenge/devopsdaysams-actions) and get started with the coding challenges!
 
-[Link](url) and ![Image](src)
-```
+Thanks for participating in this coding challenge and keep learning! We have an extensive set of [free learning modules on how to automate using GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/automate-workflow-github-actions/?ocid=aid3016779) - highly recommended!!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## What else can I do?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GitHub-Coding-Challenge/GitHub-Coding-Challenge.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks for asking! **Follow** the [#devopswallofzen](https://twitter.com/search?q=%23devopswallofzen) Twitter hashtag, **bookmark** this page, and/or have a look at our [**MS Learn module**](https://docs.microsoft.com/en-us/learn/paths/automate-workflow-github-actions/?ocid=aid3016779).
