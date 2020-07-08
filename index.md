@@ -4,6 +4,11 @@
 
 On Thursday July 9, 2020, we're tuning in for [Devopsdays Amsterdam Online](https://devopsdays.org/events/2020-amsterdam/welcome/), where you'll hear all about...DevOps! To put all that knowledge to practice, we've built some **5 short coding challenges** for you to get started with GitHub Actions 🚀. Either during the breaks or after hours, feel free to give them a try and [let us know](https://twitter.com/msdev_we) what you think of them!
 
+Wait. Devopsdays Amsterdam?
+
+Yes, Devopsdays Amsterdam is a fun conference on all things DevOps. Join us at https://devopsdays.org/events/2020-amsterdam/program. You can still join by registering.
+
+
 ## But what does all this have to do with a Wall of Zen?
 
 We have created a [Wall of Zen page](https://aka.ms/wallofzen) where you can post Zen quotes for the Devopsdays attendees. Under the hood it uses the [Octocat GitHub API](https://api.github.com/octocat).
