@@ -1,3 +1,5 @@
+![Wall of Zen twitter card](./assets/devopswallofzentwitter-lowres.png)
+
 ## Welcome to the devopsdays Wall of Zen coding challenge
 
 {% include player.html id="aM78y5RCwPo" %}
@@ -23,7 +25,7 @@ We have prepared a sample Node.js application for you that exposes a REST API to
 
 Just head over to our [GitHub repo](https://github.com/GitHub-Coding-Challenge/devopsdaysams-actions) and get started with the coding challenges!
 
-If you're stuck, we'll be at our virtual conference booth of DevOpsDays AMS at the following times:
+If you're stuck, we'll be at our virtual conference booth of DevOpsDays oNLine at the following times:
 11:50-12:10, 12:45-13:00, 14:00 - 14:15 (CET)
 
 
