@@ -28,4 +28,4 @@ Thanks for participating in this coding challenge and keep learning! We have an 
 
 ## What else can I do?
 
-Thanks for asking! **Follow** the [#devopswallofzen](https://twitter.com/search?q=%23devopswallofzen) Twitter hashtag, **bookmark** this page, and/or have a look at the[**MS Learn module**](https://docs.microsoft.com/en-us/learn/paths/automate-workflow-github-actions/?ocid=aid3016779) on GitHub Actions.
+Thanks for asking! **Follow** the [#devopswallofzen](https://twitter.com/search?q=%23devopswallofzen) Twitter hashtag, **bookmark** this page, and/or have a look at the [**MS Learn module**](https://docs.microsoft.com/en-us/learn/paths/automate-workflow-github-actions/?ocid=aid3016779) on GitHub Actions.
