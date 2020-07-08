@@ -19,9 +19,17 @@ We have created a [Wall of Zen page](https://aka.ms/wallofzen) where you can pos
 We have prepared a sample Node.js application for you that exposes a REST API to post your quote on the wall. The goal of these coding challenges is to get this REST API up-and-running by creating a CI/CD pipeline using GitHub Actions.
 
 
-## How does it work? 🧰
+## Okay, I'm in. Let's build stuff! 🧰
+
+{% include player.html id="aM78y5RCwPo" %}
 
 Just head over to our [GitHub repo](https://github.com/GitHub-Coding-Challenge/devopsdaysams-actions) and get started with the coding challenges!
+
+If you're stuck, we'll be at our virtual conference booth of DevOpsDays AMS at the following times:
+11:50 - 12:10
+12:45 - 13:00
+14:00 - 14:15
+
 
 Thanks for participating in this coding challenge and keep learning! We have an extensive set of [free learning modules on how to automate using GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/automate-workflow-github-actions/?ocid=aid3016779) - highly recommended!!
 
